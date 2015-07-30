@@ -1,0 +1,51 @@
+h1 {
+	font-family: "Verdana";
+}
+
+h3 {
+	font-family: "Verdana";
+}
+
+#content p {
+	float: 500;
+	font-size: 18px;
+	max-width: 500px;
+
+}
+
+#navbar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+#navbar a:link, a:visited {
+	display: block;
+	width: 120px;
+	font-weight: bold;
+	color: black;
+	background-color: pink;
+	text-align: center;
+	padding: 4px;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-family: 'Verdana';
+}
+
+#navbar li {
+	float: left;
+}
+
+#games a{
+	font-family: "Verdana";
+	text-transform: uppercase;
+	font-weight: bold;
+	color: black;
+	display: block;
+	width: 300px;
+	text-decoration: none;
+	text-align: center;
+	padding: 4px;
+	background-color: pink;
+}
