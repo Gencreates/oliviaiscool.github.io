@@ -1,15 +1,20 @@
-h1 {
-	font-family: "Verdana";
-}
-
-h3 {
-	font-family: "Verdana";
-}
-
 #content p {
 	float: 500;
 	font-size: 18px;
 	max-width: 500px;
+	font-family: "Times New Roman";
+	font-weight: lighter;
+
+}
+
+#content a {
+	float: 500;
+	color: lightblue;
+	font-size: 30px;
+	max-width: 500px;
+	font-family: "Arial";
+	font-weight: lighter;
+	text-decoration: none;
 
 }
 
@@ -35,17 +40,4 @@ h3 {
 
 #navbar li {
 	float: left;
-}
-
-#games a{
-	font-family: "Verdana";
-	text-transform: uppercase;
-	font-weight: bold;
-	color: black;
-	display: block;
-	width: 300px;
-	text-decoration: none;
-	text-align: center;
-	padding: 4px;
-	background-color: pink;
 }
